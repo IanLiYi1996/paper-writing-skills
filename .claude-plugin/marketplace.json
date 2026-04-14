@@ -1,0 +1,44 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "paper-writing-skills",
+  "owner": {
+    "name": "IanLiYi1996",
+    "url": "https://github.com/IanLiYi1996"
+  },
+  "metadata": {
+    "description": "End-to-end academic paper writing skills with PaperBanana-inspired figure generation",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "paper-writing-skills",
+      "description": "Academic paper writing pipeline with IMRAD guidance, self-contained figure generation inspired by PaperBanana, and bilingual Chinese/English writing tips",
+      "version": "1.0.0",
+      "author": {
+        "name": "IanLiYi1996"
+      },
+      "homepage": "https://github.com/IanLiYi1996/paper-writing-skills",
+      "repository": "https://github.com/IanLiYi1996/paper-writing-skills",
+      "license": "MIT",
+      "keywords": [
+        "paper-writing",
+        "academic",
+        "IMRAD",
+        "PaperBanana",
+        "LaTeX",
+        "NeurIPS",
+        "figure-generation"
+      ],
+      "category": "productivity",
+      "source": "./",
+      "skills": [
+        "./skills/paper-writing",
+        "./skills/paperbanana-figures",
+        "./skills/academic-writing"
+      ],
+      "commands": [
+        "./commands/paper-check.md"
+      ]
+    }
+  ]
+}

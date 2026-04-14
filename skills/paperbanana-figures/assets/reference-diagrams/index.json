@@ -1,0 +1,74 @@
+[
+  {
+    "id": "structmae-graph-masking",
+    "arxiv_id": "2404.15806v1",
+    "category": "graph-neural-network",
+    "caption": "StructMAE architecture with structure-guided masking for graph masked autoencoders, showing structure-based scoring (SBS), structure-guided masking (SGM), GNN-style encoder, and decoder for node reconstruction",
+    "style_notes": "Left-to-right flow in panel (a) with three sub-panels (a, b, c) in dashed boxes, graph visualizations with blue/pink node coloring, rounded rectangle labels (SBS, SGM, Enc, Dec), blue monochrome palette, white background, 16:9 aspect ratio",
+    "image_path": "2404.15806v1.jpg",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "id": "collaborative-inference-routing",
+    "arxiv_id": "2601.05110v1",
+    "category": "agent",
+    "caption": "GlimpRouter collaborative inference framework routing between a large LLM and small SLM based on entropy checks, with step-level token generation and final answer aggregation",
+    "style_notes": "Left-to-right flow with three horizontal swim lanes (LLM, GlimpRouter, SLM), color-coded steps (green/red/blue chevrons), pastel background bands, dashed and solid arrows for control flow, rounded rectangles, 16:9 aspect ratio",
+    "image_path": "2601.05110v1.jpg",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "id": "critical-token-psv",
+    "arxiv_id": "2601.05144v1",
+    "category": "generative-learning",
+    "caption": "Critical token identification and principal subspace vector (PSV) construction for reasoning LLMs, showing prompt-to-RLLM flow with token scoring and PCA-initialized semantic alignment",
+    "style_notes": "Top-to-bottom flow, minimal grayscale palette with blue accent for critical tokens, dashed boxes for grouping, mathematical notation inline, token grid visualization, legend at bottom, 3:4 aspect ratio",
+    "image_path": "2601.05144v1.jpg",
+    "aspect_ratio": "3:4"
+  },
+  {
+    "id": "seem-hierarchical-memory",
+    "arxiv_id": "2601.06411v1",
+    "category": "agent",
+    "caption": "SEEM framework with hierarchical memory architecture: passage layer feeding into memory generation agents, which produce both a Graph Memory Layer (knowledge graph) and an Episodic Memory Layer (structured event frames)",
+    "style_notes": "Center-radial layout with three colored regions (blue passages, orange graph memory, green episodic memory), icon-rich with robot and document icons, dashed bidirectional arrows, rounded rectangles and speech bubbles, 16:9 aspect ratio",
+    "image_path": "2601.06411v1.jpg",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "id": "competitive-coding-synthesis",
+    "arxiv_id": "2601.06953v2",
+    "category": "training-pipeline",
+    "caption": "Feature-based synthesis pipeline for competition-level coding data: code snippet feature extraction, feature tree evolution and merging, subtree selection with scenario generation, producing tasks for competitive programming platforms",
+    "style_notes": "Left-to-right flow with five labeled stages in dashed boxes, pastel blue background, tree/graph node visualizations with colored circles, code snippet icons, rounded rectangle labels, clean 16:9 aspect ratio",
+    "image_path": "2601.06953v2.jpg",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "id": "maxs-lookahead-reasoning",
+    "arxiv_id": "2601.09259v1",
+    "category": "agent",
+    "caption": "MAXS meta-adaptive exploration architecture with LLM agent using code and search tools, showing rollout-and-lookahead tree, multi-signal value estimation (advantage, step-level variance, trend slope), and trajectory convergence",
+    "style_notes": "Two-column layout with agent flow on left and detailed modules on right in dashed boxes, green/red/blue color coding, tree-structured rollout visualization, mathematical formulas inline, bar chart at bottom, 4:3 aspect ratio",
+    "image_path": "2601.09259v1.jpg",
+    "aspect_ratio": "4:3"
+  },
+  {
+    "id": "fast-thinking-robot",
+    "arxiv_id": "2601.09708v1",
+    "category": "multi-modal",
+    "caption": "Fast-thinking robot architecture with textual teacher and latent student models, knowledge distillation, GRPO rollouts with reward scoring, verbalizer LLM, and spatial KV action model for robot control",
+    "style_notes": "Two-panel layout (a, b), color-coded components (blue student, orange teacher, green MLP/verbalizer), dashed distillation arrows, real-world robot images, mathematical loss labels, token sequence visualizations, 16:9 aspect ratio",
+    "image_path": "2601.09708v1.jpg",
+    "aspect_ratio": "16:9"
+  },
+  {
+    "id": "hermes-kv-cache-memory",
+    "arxiv_id": "2601.14724v2",
+    "category": "multi-modal",
+    "caption": "HERMES training-free framework for multimodal LLMs with hierarchical KV cache management (deep long-term, middle working, shallow sensory memory layers), cross-layer smoothing, position re-indexing, and streaming video QA pipeline",
+    "style_notes": "Left-to-right flow with video stream input, three-tier memory hierarchy in center with colored token blocks (pink/orange evicted, blue/yellow retained), legend box, streaming QA output on right, warm palette with orange/pink accents, 16:9 aspect ratio",
+    "image_path": "2601.14724v2.jpg",
+    "aspect_ratio": "16:9"
+  }
+]

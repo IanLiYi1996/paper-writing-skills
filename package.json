@@ -1,0 +1,21 @@
+{
+  "name": "@ianliyi1996/paper-writing-skills",
+  "version": "1.0.0",
+  "description": "Claude Code skills for academic paper writing with PaperBanana-inspired figure generation",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "paper-writing",
+    "academic",
+    "PaperBanana",
+    "figure-generation",
+    "IMRAD"
+  ],
+  "license": "MIT",
+  "author": "IanLiYi1996",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IanLiYi1996/paper-writing-skills"
+  },
+  "type": "module"
+}
