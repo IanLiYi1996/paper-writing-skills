@@ -44,6 +44,19 @@ Includes 8 curated reference diagrams, NeurIPS style guide, and matplotlib plot 
 
 ## Installation
 
+### npx skills (recommended, works with 45+ AI agents)
+
+```bash
+# Install all 3 skills to Claude Code
+npx skills add IanLiYi1996/paper-writing-skills -a claude-code
+
+# Or install to all supported agents (Claude Code, Cursor, Codex, Gemini CLI, etc.)
+npx skills add IanLiYi1996/paper-writing-skills
+
+# Or install a specific skill only
+npx skills add IanLiYi1996/paper-writing-skills -s paper-writing -a claude-code
+```
+
 ### Claude Code Plugin
 
 ```bash
